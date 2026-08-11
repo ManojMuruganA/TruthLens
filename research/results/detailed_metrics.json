@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-05-11T00:19:58.243428",
+  "overall_accuracy": 95.39,
+  "total_samples": 20000,
+  "correct_predictions": 19078,
+  "wrong_predictions": 922,
+  "confusion_matrix": {
+    "true_negative": 9522,
+    "false_positive": 478,
+    "false_negative": 444,
+    "true_positive": 9556
+  },
+  "per_class": {
+    "REAL": {
+      "precision": 0.9554485249849488,
+      "recall": 0.9522,
+      "f1_score": 0.9538214965441251
+    },
+    "FAKE": {
+      "precision": 0.9523619693043651,
+      "recall": 0.9556,
+      "f1_score": 0.9539782369971049
+    }
+  },
+  "roc_auc": 0.9904343700000001,
+  "classification_report": "              precision    recall  f1-score   support\n\n        FAKE     0.9554    0.9522    0.9538     10000\n        REAL     0.9524    0.9556    0.9540     10000\n\n    accuracy                         0.9539     20000\n   macro avg     0.9539    0.9539    0.9539     20000\nweighted avg     0.9539    0.9539    0.9539     20000\n"
+}

@@ -1,0 +1,19 @@
+==================================================
+CNN Training Results Summary
+==================================================
+Date: 2026-05-11 00:05:10
+Device: cpu
+Dataset: CiFAKE (120,000 images)
+Model: Custom CNN
+Total Parameters: 845,602
+Batch Size: 64
+Epochs: 15
+Learning Rate: 0.001
+Training Time: 54.4 minutes
+--------------------------------------------------
+Best Test Accuracy: 95.39%
+Final Train Loss: 0.1744
+Final Test Loss: 0.1241
+Final Train Accuracy: 93.44%
+Final Test Accuracy: 95.39%
+==================================================

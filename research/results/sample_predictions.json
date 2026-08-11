@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-05-11T00:23:43.052276",
+  "total_samples": 10,
+  "correct_predictions": 10,
+  "accuracy": 100.0,
+  "results": [
+    {
+      "actual": "FAKE",
+      "predicted": "FAKE (AI)",
+      "confidence": 0.9997486472129822,
+      "correct": true
+    },
+    {
+      "actual": "FAKE",
+      "predicted": "FAKE (AI)",
+      "confidence": 0.9568673372268677,
+      "correct": true
+    },
+    {
+      "actual": "FAKE",
+      "predicted": "FAKE (AI)",
+      "confidence": 0.9995197057723999,
+      "correct": true
+    },
+    {
+      "actual": "FAKE",
+      "predicted": "FAKE (AI)",
+      "confidence": 0.9596468210220337,
+      "correct": true
+    },
+    {
+      "actual": "FAKE",
+      "predicted": "FAKE (AI)",
+      "confidence": 0.9999881982803345,
+      "correct": true
+    },
+    {
+      "actual": "REAL",
+      "predicted": "REAL",
+      "confidence": 0.9896969199180603,
+      "correct": true
+    },
+    {
+      "actual": "REAL",
+      "predicted": "REAL",
+      "confidence": 0.9211833477020264,
+      "correct": true
+    },
+    {
+      "actual": "REAL",
+      "predicted": "REAL",
+      "confidence": 0.9993571639060974,
+      "correct": true
+    },
+    {
+      "actual": "REAL",
+      "predicted": "REAL",
+      "confidence": 0.7367236614227295,
+      "correct": true
+    },
+    {
+      "actual": "REAL",
+      "predicted": "REAL",
+      "confidence": 0.9997904896736145,
+      "correct": true
+    }
+  ]
+}

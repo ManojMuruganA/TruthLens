@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+instance/
+*.db
+
+# Node
+node_modules/
+.DS_Store
+
+# Large model files (use Git LFS or upload separately)
+*.pth
+
+# Dataset (too large)
+data/
+social_media_dataset/
