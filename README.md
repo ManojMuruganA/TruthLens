@@ -181,24 +181,6 @@ The frontend will open at `http://localhost:3000`.
 
 ---
 
-## Team
-
-| **Name**             | **Role**                    |
-| -------------------- | --------------------------- |
-| **Murugan Manoj**    | Lead Developer & Researcher |
-| **Jenil Maheshwari** | Research & Testing          |
-| **Jiya Bali**        | Research & Documentation    |
-
-## Mentor
-
-**Dr. Priyadharshini K** — PhD, SRM University
-
-## Institution
-
-**Jeonbuk National University** — Engineering Science Capstone Design 1 (2026)
-
----
-
 ## Acknowledgments
 
 - **CIFAKE Dataset:** Bird, J.J. & Lotfi, A. (2024), *IEEE Access*
